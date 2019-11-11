@@ -1,0 +1,68 @@
+Looking Glass Pain-Free Installer (Code Named: Project Gooey) Change Log
+
+......................................................
+
+Version 1.0.0.12
+
+Initial Release.
+
+Released with Looking Glass 4.1.
+
+No currently documented major bugs.
+
+......................................................
+
+Version 1.0.0.13
+
+Fixed window display bug. Bug #1
+
+Fixed parent window close bug. Bug #2
+
+......................................................
+
+Version 1.0.0.14
+
+Added nicer dialog icons.
+
+...................................................... 
+
+Version 1.1.0.0
+
+Fixed major visual bug. Bug #3
+
+Added Slideshow.
+
+......................................................
+
+Version 1.1.0.1
+
+Fixed window resize bug. Bug #4
+
+Recompiled with LG4.1 data files and released.
+
+...................................................... 
+
+Version 2.0.0.0
+
+Changed .NET Framework from version 4.0 to 2.0 to
+add compatability with Windows 98, ME, and 2000.
+
+Fixed "installer installer" repeat bug. Bug #5
+
+Recompiled with LG4.1 data files and released.
+
+.......................................................
+
+Version 2.1.0.0
+
+Added new pictures for LG5.0.
+
+Changed code for LG5.0.
+
+Added help button in Moonshell select window.
+
+Fixed main screen picture centering bug. Bug #6
+
+Released with LG 5.0 A (Build 5941)
+
+........................................................

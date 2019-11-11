@@ -1,0 +1,35 @@
+
+Looking Glass Error Registry Ver. 1.0
+
+You can check error codes given by Looking Glass here to find out what they mean.
+
+For LG5.0A
+
+------------------------------------------------------------------------------
+ERR No. 0X35452
+File is not supported. 
+. Are you trying to open a commercial DS rom?
+-------------------------------------------------------------------------------
+ERR No. 0X97821
+Text files with no text in them cannot be opened.
+. Does the file have text in it.
+-------------------------------------------------------------------------------
+ERR No. 0x13245
+The image you are trying to open is to big. 5MP is the maximum size
+. Do you have an EXCESIVELY large resolution in your Image?
+-------------------------------------------------------------------------------
+ERR no. 0X90000
+You have tried to open the audio player but you have no music currently playing.
+. Do you have any music playing?
+. Did you STOP your current music from playing?
+-------------------------------------------------------------------------------
+ERR No. 0x11111
+A fatal error causing Looking Glass to crash has occurred. reboot the system.
+. Did you Pull out the Flash-Cart?
+. Did you pull out the SD Card?
+-------------------------------------------------------------------------------
+Err No. 0x45612
+The file you want to open cannot be opened due to low memory.
+. Is your SD Card to small? 
+. Does your Flash-Cart have a low amount of SYS memory?
+-------------------------------------------------------------------------------

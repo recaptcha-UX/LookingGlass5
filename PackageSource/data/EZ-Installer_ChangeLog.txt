@@ -1,0 +1,84 @@
+---------------------------------------------------------------------------------------------
+EZ-Installer Script Ver. 2.0.0 March 04, 2015
+---------------------------------------------------------------------------------------------
+Interactive code trimmed for legacy release.
+
+Added "setup32.exe", an interactive launcher for script.
+
+Moved script to data folder.
+
+Changed name of script to "EZ.bat".
+---------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+EZ-Installer Script Ver. 1.6.0 Late January 2015
+--------------------------------------------------------------------------------
+This document approved for final release. Thanks packaging team :-)
+
+Added even BETTER ASCII graphics. Thanks to one of our programmers
+(he wishes to remain secret) who spent hours testing the graphics in a previous
+project created over 6 years ago.
+
+Updating file check code is a goal for next release.
+
+Created beta 16-Bit extractor.
+
+Added comments so you can examine each portion of the program.
+--------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+EZ-Installer Ver. 1.5.2 January 2015
+-------------------------------------------------------------------------
+Code recommisioned for legacy computers.
+
+Added better ASCII graphics.
+
+Active Support reinstated.
+
+Project resumed.
+-------------------------------------------------------------------------
+
+--------------------------------------------------------------------
+EZ-Installer Ver. 1.5.1 December 2014
+--------------------------------------------------------------------
+Added more code.
+
+Active Support Ended.
+
+Project Canceled.
+--------------------------------------------------------------------
+
+--------------------------------------------------------------
+EZ-Installer Ver. 1.5 Mid 2014
+--------------------------------------------------------------
+Fixed various bugs.
+
+Successfully executed script on ARM architecture. (Surface RT)
+
+This document trimmed from final release to save space.
+
+Added support for Looking Glass 4.0.
+--------------------------------------------------------------
+
+---------------------------------------------------------
+EZ-Installer Ver. 1.1 December 2013
+---------------------------------------------------------
+Added support for Looking Glass 3.1 SE (Second Edition).
+
+Added support for Moonshell 2.0.
+---------------------------------------------------------
+
+-------------------------------------------------
+EZ-Installer Ver. 1.0.1 Late November 2013
+-------------------------------------------------
+Fixed error-level check issue.
+
+Added splash.ani (custom splash screen) support.
+-------------------------------------------------
+
+---------------------------------------
+EZ-Installer Ver. 1.0 November 2013
+---------------------------------------
+Initial Release.
+---------------------------------------
+
