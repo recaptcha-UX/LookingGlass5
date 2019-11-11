@@ -7,7 +7,9 @@ system uses a lot of files that ordinary developers may not understand. I will a
 Moonshell 2 was released in 2010, but the User interface is quite poor and lacking in quality. Looking Glass 5 fixes this by
 adding crisp new images, sounds, visuals, and fonts to the Moonshell experience.
 
-Below is an explanation of all of the pieces and how they all fit together:
+Below is an explanation of all of the pieces and how they all fit together.
+
+NOTE: YOU SHOULD HAVE A WORKING KNOWLEDGE OF MOONSHELL 2 BEFORE YOU CAN UNDERSTAND THE INNER WORKINGS OF LOOKING GLASS 5.
 
 # The .skn file:
 
