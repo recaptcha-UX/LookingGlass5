@@ -23,4 +23,13 @@ As the name suggests, this is the data for the splash screen. It may look like a
 Once again, this is a custom archive. But what's in it? The SOUNDS. All of the sounds to make the UX scheme even more enjoyable are created and placed in a folder as .WAV. Then, a custom compiler places these sounds in a .DAT file for use on the system.
 
 
+# The moonshell2.ini file:
 
+This file is very important to the user interface. It tells the kernal what colors it will be using and what features should be turned on and turned off. It handles enabling of the sounds and splash screen. It also changes low level memory managment data.
+
+
+# Final thoughts:
+
+Looking Glass 5 was created by me to enhance the Moonshell 2 experience. Moonshell is a terrific operating system but it needed a facelift. Looking Glass 5 gives it that much needed transformation. 
+
+Moonshell 2 has been discountinued and so has this project, but it does serve as an example of how to create a UX scheme for a very proprietary system.
