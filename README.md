@@ -28,6 +28,11 @@ Once again, this is a custom archive. But what's in it? The SOUNDS. All of the s
 This file is very important to the user interface. It tells the kernal what colors it will be using and what features should be turned on and turned off. It handles enabling of the sounds and splash screen. It also changes low level memory managment data.
 
 
+# Setup.exe and LGWin.exe:
+
+These files are the installers that surgically replace the UX data from Moonshell, with the new UX data for Looking Glass 5. Setup.exe extracts the files to a workarea on the destination SD Card, and then runs LGWin.exe. LGWin.exe then copies the files from that workarea to the correct locations deep in the Moonshell2 folder. After LGWin is finished, it deletes the temporary workarea.
+
+
 # Final thoughts:
 
 Looking Glass 5 was created by me to enhance the Moonshell 2 experience. Moonshell is a terrific operating system but it needed a facelift. Looking Glass 5 gives it that much needed transformation. 
